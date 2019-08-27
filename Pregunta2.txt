@@ -1,5 +1,0 @@
-1.Lo que el creador buscaba era la colaboracion entre los desarrolladores, ya que de esta manera se podian termianr mejor los software
-Tambien busco seguridad, ya que es mas facil guardar el codigo y versionarlo para llevar un mejor control
-Y por ultimo se enfoco en el aprendizaje constante, ya que muchos de los estudiantes usan esta herramienta para escribir codigo.
-
-2.Tom Werner y Chris Wanstrath
