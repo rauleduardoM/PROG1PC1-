@@ -1,0 +1,1 @@
+HTTP2 es un protocolo de navegacion, que ayuda a la navegacion de internet y a la proteccion de datos, los encripta para que no puedan ser sacado por hacker. 
